@@ -1,13 +1,12 @@
-Agency Jekyll theme
-====================
+# Agency Jekyll theme
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 # How to use
 
-###Portfolio 
+###Portfolio
 
-Portfolio projects are in '/_posts'
+Portfolio projects are in '/\_posts'
 
 Images are in '/img/portfolio'
 
@@ -17,10 +16,9 @@ Images are in '/img/about/'
 
 ###Team
 
-Team members and info are in '_config.yml'
+Team members and info are in '\_config.yml'
 
 Images are in '/img/team/'
-
 
 # Demo
 
@@ -28,3 +26,7 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+# Credit
+
+Header Photo by <a href="https://unsplash.com/@patrickperkins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Perkins</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
